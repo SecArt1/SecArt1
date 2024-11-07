@@ -37,7 +37,7 @@ A hands-on project to deepen my understanding of **Active Directory (AD)** and n
 - **Networking**: Cisco CCNA certified; proficient in network security, IP configurations, and network troubleshooting.
 - **Programming**: Knowledgeable in C/C++, Python, and embedded systems programming.
 - **Operating System**: Windows
-- **Cloud and IoT**: Actively exploring AWS (currently utilizing $300 in AWS credits for project development) and working on Industry 4.0 and Industrial IoT applications.
+- **Cloud and IoT**: Actively exploring AWS and working on Industry 4.0 and Industrial IoT applications.
 
 ---
 
