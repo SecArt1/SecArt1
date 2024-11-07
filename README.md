@@ -36,7 +36,7 @@ A hands-on project to deepen my understanding of **Active Directory (AD)** and n
 ## 🛠️ Skills and Tools
 - **Networking**: Cisco CCNA certified; proficient in network security, IP configurations, and network troubleshooting.
 - **Programming**: Knowledgeable in C/C++, Python, and embedded systems programming.
-- **Operating System**: Windows
+- **Operating System**: Windows, Linux.
 - **Cloud and IoT**: Actively exploring AWS and working on Industry 4.0 and Industrial IoT applications.
 
 ---
