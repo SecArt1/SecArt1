@@ -190,15 +190,16 @@ Device Security:        Firmware Updates, Secure Boot, Encryption
 
 ### � **Academic Background**
 ```yaml
-Degree: Computer Science / Information Technology
+Degree: Electronics and Communications Engineering
 Focus Areas:
-  - Cybersecurity Fundamentals
-  - Network Security & Administration
-  - Software Development & Security
-  - Database Security & Management
-  - Cloud Computing Basics
+  - Digital Signal Processing & Security
+  - Network Communications & Protocols
+  - Embedded Systems & IoT Security
+  - Wireless Communications Security
+  - Hardware Security & Cryptography
+  - Circuit Design & Electronic Security
   
-Current Status: Final Year Student / Recent Graduate
+Current Status: Recent Graduate (2025)
 ```
 
 ### 🏆 **Certifications Achieved**
