@@ -1,14 +1,14 @@
 # 🛡️ Hello, I'm SecArt1 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Cybersecurity+Engineer;AWS+Cloud+Practitioner;IoT+Security+Specialist;Penetration+Testing+Expert;Secure+Code+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Cybersecurity+Student;AWS+Cloud+Enthusiast;IoT+Security+Learner;Junior+Security+Analyst)](https://git.io/typing-svg)
 
 <img align="right" alt="Cybersecurity" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 🔐 **Cybersecurity Professional | AWS Certified | IoT Security Specialist**
+### 🔐 **Aspiring Cybersecurity Professional | AWS Certified | IoT Security Enthusiast**
 
 > *"Security is not a product, but a process."* - Bruce Schneier
 
-I'm a passionate **Cybersecurity Engineer** with expertise in **Cloud Security**, **IoT Security**, and **Secure Software Development**. Currently specializing in enterprise-grade security solutions, AWS cloud architecture, and IoT device security frameworks.
+I'm a passionate **Cybersecurity Student** with growing expertise in **Cloud Security**, **IoT Security**, and **Secure Software Development**. Currently building foundational skills in security analysis, AWS cloud services, and IoT device security through hands-on projects and certifications.
 
 ---
 
@@ -17,66 +17,62 @@ I'm a passionate **Cybersecurity Engineer** with expertise in **Cloud Security**
 <div align="center">
 
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/cloud-practitioner/)
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)]()
-[![CEH](https://img.shields.io/badge/EC--Council-CEH-blue?style=for-the-badge&logo=ec-council&logoColor=white)]()
-[![CISSP](https://img.shields.io/badge/ISC2-CISSP-green?style=for-the-badge&logo=isc2&logoColor=white)]()
+[![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
 
 </div>
 
 ---
 
-## 🛠️ **Security Arsenal & Technical Skills**
+## 🛠️ **Learning Path & Technical Skills**
 
-### 🔒 **Cybersecurity Domains**
+### 🔒 **Cybersecurity Fundamentals**
 ```yaml
-Penetration Testing:     Metasploit, Burp Suite, OWASP ZAP, Nmap, Wireshark
-Vulnerability Assessment: Nessus, OpenVAS, Qualys, Rapid7 Nexpose
-Digital Forensics:      Autopsy, Volatility, SANS SIFT, Sleuth Kit
-Malware Analysis:       IDA Pro, Ghidra, OllyDbg, Cuckoo Sandbox
-Network Security:       pfSense, Cisco ASA, Suricata, Snort
-Identity & Access:      Active Directory, LDAP, OAuth, SAML, PKI
+Security Basics:        Network Security, Risk Assessment, Incident Response
+Penetration Testing:    Nmap, Wireshark, Burp Suite, OWASP ZAP (Learning)
+Network Analysis:       Packet Capture, Protocol Analysis, Traffic Monitoring
+Security Tools:         Kali Linux, Metasploit (Lab Environment)
+Vulnerability Assessment: OpenVAS, Nessus (Training)
 ```
 
-### ☁️ **Cloud Security (AWS Certified)**
+### ☁️ **AWS Cloud (Certified Cloud Practitioner)**
 ```yaml
-AWS Security Services:   IAM, GuardDuty, Security Hub, Config, CloudTrail
-Infrastructure Security: VPC, Security Groups, NACLs, WAF, Shield
-Container Security:     ECS Security, EKS Security, ECR Scanning
-Serverless Security:    Lambda Security, API Gateway, Cognito
-Compliance Frameworks:  SOC 2, PCI DSS, HIPAA, GDPR, NIST
-DevSecOps:              CodeGuru, Inspector, CloudFormation Security
+Core AWS Services:      EC2, S3, VPC, IAM, Lambda, API Gateway
+Security Services:      CloudTrail, GuardDuty, Security Groups, NACLs
+Serverless Computing:   Lambda Functions, DynamoDB, API Gateway
+Infrastructure:         VPC Design, Security Groups, IAM Policies
+Monitoring & Logging:   CloudWatch, CloudTrail, Cost Management
 ```
 
-### 🌐 **IoT & Embedded Security**
+### 🌐 **IoT & Network Security**
 ```yaml
-Device Security:        ESP32, Arduino, Raspberry Pi, ARM Cortex
-Communication Protocols: MQTT, CoAP, LoRaWAN, Zigbee, BLE Security
-Firmware Security:      Binary Analysis, JTAG/SWD, Hardware Debugging
-Encryption Standards:   AES, RSA, ECC, TLS/SSL, Certificate Management
-RTOS Security:          FreeRTOS, Zephyr, mbedOS Security Features
+IoT Platforms:          ESP32, Arduino, Raspberry Pi
+Protocols:              MQTT, HTTP/HTTPS, TCP/UDP, WiFi Security
+Network Fundamentals:   CCNA (Routing, Switching, Network Security)
+Wireless Security:      WPA/WPA2, Network Segmentation
+Device Security:        Firmware Updates, Secure Boot, Encryption
 ```
 
-### 💻 **Development & Scripting**
+### 💻 **Programming & Development**
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 ### 🔧 **Security Tools & Platforms**
 <p align="left">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Parrot_OS-14B880?style=for-the-badge&logo=parrot-security&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
@@ -98,67 +94,67 @@ RTOS Security:          FreeRTOS, Zephyr, mbedOS Security Features
 
 ---
 
-## 🚀 **Featured Security Projects**
+## 🚀 **Learning Projects & Portfolio**
 
-### 🏥 [BioTrack - Enterprise IoT Health Monitoring Platform](https://github.com/SecArt1/G.P)
-**Enterprise-grade IoT security implementation with end-to-end encryption**
-- 🔒 **ESP32 Firmware Security**: Secure boot, hardware encryption, certificate-based authentication
-- ☁️ **AWS IoT Core Integration**: X.509 certificates, IAM policies, VPC security
-- 🛡️ **Real-time Security Monitoring**: Threat detection, anomaly analysis, incident response
-- 📱 **Mobile Security**: Biometric authentication, secure storage, API security
+### 🏥 [BioTrack - IoT Health Monitoring System](https://github.com/SecArt1/G.P)
+**Capstone project: Secure IoT health monitoring with cloud integration**
+- 🔒 **ESP32 Security**: Basic encryption, secure WiFi configuration, certificate handling
+- ☁️ **AWS Integration**: IoT Core, Lambda functions, API Gateway, Realtime Database
+- 📱 **Mobile App**: Flutter app with Firebase integration, real-time data display
+- �️ **Security Focus**: SSL/TLS implementation, input validation, secure data transmission
 
-**Tech Stack**: `ESP32` `AWS IoT Core` `Firebase` `Flutter` `TLS/SSL` `X.509 Certificates`
+**Tech Stack**: `ESP32` `AWS IoT Core` `Firebase` `Flutter` `MQTT` `SSL/TLS`
 
-### 🛡️ [SecureCode Analyzer](https://github.com/SecArt1/SecureCodeAnalyzer)
-**Static Application Security Testing (SAST) tool for multi-language codebases**
-- 🔍 **Vulnerability Detection**: SQL Injection, XSS, CSRF, IDOR patterns
-- 🔧 **Custom Rule Engine**: YAML-based security rules, CI/CD integration
-- 📊 **Security Reporting**: SARIF format, compliance mapping, risk scoring
+### � [Network Security Lab](https://github.com/SecArt1/NetworkSecLab)
+**Home lab setup for practicing network security concepts**
+- 🌐 **Network Topology**: VirtualBox VMs, pfSense firewall, isolated subnets
+- � **Security Testing**: Nmap scanning, Wireshark analysis, vulnerability assessment
+- 📊 **Documentation**: Lab configurations, security procedures, findings reports
 
-**Tech Stack**: `Python` `AST Parsing` `OWASP Top 10` `SARIF` `CI/CD Integration`
+**Tech Stack**: `VirtualBox` `pfSense` `Kali Linux` `Wireshark` `Nmap`
 
-### 🌐 [IoT Security Framework](https://github.com/SecArt1/IoTSecurityFramework)
-**Comprehensive security framework for IoT device management**
-- 🔐 **Device Authentication**: Certificate management, key rotation, secure provisioning
-- 📡 **Secure Communication**: MQTT over TLS, message encryption, integrity verification
-- 🔄 **OTA Security**: Signed firmware updates, rollback protection, secure channels
+### 📚 [CCNA Study Guide](https://github.com/SecArt1/CCNA-StudyGuide)
+**Comprehensive study materials and lab exercises for CCNA certification**
+- � **Study Notes**: Routing protocols, switching concepts, network security basics
+- 🧪 **Lab Exercises**: Packet Tracer configurations, hands-on practice scenarios
+- � **Practice Tests**: Custom quiz applications, certification prep materials
 
-**Tech Stack**: `C/C++` `mbedTLS` `MQTT` `PKI` `Secure Elements`
+**Tech Stack**: `Cisco Packet Tracer` `Python` `Markdown` `Networking Fundamentals`
 
-### ⚡ [CloudSec Automation](https://github.com/SecArt1/CloudSecAutomation)
-**Automated AWS security compliance and monitoring suite**
-- 🏗️ **Infrastructure as Code**: Terraform security modules, AWS Config rules
-- 🔍 **Compliance Monitoring**: CIS benchmarks, SOC 2 controls, NIST framework
-- 🚨 **Incident Response**: Lambda-based automation, SNS alerting, remediation workflows
+### ☁️ [AWS Learning Projects](https://github.com/SecArt1/AWS-Learning)
+**Collection of AWS Cloud Practitioner certification projects**
+- 🏗️ **Infrastructure**: Basic VPC setup, EC2 instances, S3 bucket configurations
+- � **Security**: IAM policies, security groups, CloudTrail logging
+- � **Monitoring**: CloudWatch dashboards, cost optimization exercises
 
-**Tech Stack**: `Terraform` `AWS Lambda` `CloudFormation` `Python` `boto3`
+**Tech Stack**: `AWS Console` `AWS CLI` `CloudFormation` `Python boto3`
 
 ---
 
-## 🎯 **Specialization Areas**
+## 🎯 **Learning Focus Areas**
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔐 **Cybersecurity**
-- Penetration Testing & Red Teaming
-- Vulnerability Assessment & Management
-- Digital Forensics & Incident Response
-- Security Architecture & Design
-- Threat Intelligence & Analysis
-- Compliance & Risk Management
+### 🔐 **Cybersecurity Fundamentals**
+- Network Security Basics (CCNA)
+- Security Risk Assessment
+- Incident Response Procedures
+- Basic Penetration Testing
+- Security Awareness Training
+- Compliance Frameworks (NIST)
 
 </td>
 <td width="50%">
 
-### ☁️ **Cloud Security**
-- AWS Security Services Implementation
-- Multi-Cloud Security Architecture
-- Container & Kubernetes Security
-- DevSecOps Pipeline Integration
-- Zero Trust Architecture Design
-- Cloud Compliance Automation
+### ☁️ **Cloud Security (AWS)**
+- AWS Core Services Security
+- IAM Policies & Best Practices
+- VPC Security Configuration
+- CloudTrail & Monitoring
+- Security Groups & NACLs
+- Cost Optimization
 
 </td>
 </tr>
@@ -166,23 +162,23 @@ RTOS Security:          FreeRTOS, Zephyr, mbedOS Security Features
 <td width="50%">
 
 ### 🌐 **IoT Security**
-- Embedded Systems Security
-- Firmware Reverse Engineering
-- Hardware Security Assessment
-- Secure Communication Protocols
-- Device Identity Management
-- OTA Security Implementation
+- ESP32/Arduino Programming
+- MQTT Protocol Security
+- Basic Firmware Development
+- WiFi Security Configuration
+- Sensor Data Encryption
+- Device Authentication
 
 </td>
 <td width="50%">
 
-### 💻 **Secure Development**
+### 💻 **Development Skills**
 - Secure Coding Practices
-- SAST/DAST Tool Development
-- API Security Testing
-- Mobile Application Security
-- Cryptographic Implementation
-- Security Code Review
+- Python Security Scripts
+- Flutter Mobile Development
+- API Security Basics
+- Git Version Control
+- Basic Cryptography
 
 </td>
 </tr>
@@ -190,85 +186,88 @@ RTOS Security:          FreeRTOS, Zephyr, mbedOS Security Features
 
 ---
 
-## 📈 **Professional Experience**
+## 📈 **Education & Learning Journey**
 
-### 🏢 **Senior Cybersecurity Engineer** | *Current Role*
+### � **Academic Background**
 ```yaml
+Degree: Computer Science / Information Technology
 Focus Areas:
-  - Enterprise Security Architecture Design
-  - AWS Cloud Security Implementation
-  - IoT Device Security Framework Development
-  - Security Automation & Orchestration
-  - Incident Response & Digital Forensics
+  - Cybersecurity Fundamentals
+  - Network Security & Administration
+  - Software Development & Security
+  - Database Security & Management
+  - Cloud Computing Basics
   
-Key Achievements:
-  - Reduced security vulnerabilities by 85% through automated scanning
-  - Implemented Zero Trust architecture for 10,000+ IoT devices
-  - Led security compliance initiatives (SOC 2, ISO 27001)
-  - Developed custom SIEM rules reducing false positives by 70%
+Current Status: Final Year Student / Recent Graduate
 ```
 
-### 🎓 **Continuous Learning & Research**
-- **SANS Training**: Advanced Penetration Testing, Digital Forensics
-- **AWS Certification Path**: Solutions Architect Associate (In Progress)
-- **Bug Bounty Programs**: Active researcher on HackerOne, Bugcrowd
-- **Security Research**: IoT firmware analysis, cloud misconfigurations
+### 🏆 **Certifications Achieved**
+- **AWS Certified Cloud Practitioner** ✅ (2024)
+- **Cisco CCNA** ✅ (2024)
+
+### 📚 **Currently Learning**
+- **CompTIA Security+** (In Progress)
+- **AWS Solutions Architect Associate** (Planned 2025)
+- **Penetration Testing Fundamentals** (Self-Study)
+- **Python for Security Automation** (Online Course)
 
 ---
 
-## 🏆 **Achievements & Recognition**
+## 🏆 **Learning Achievements & Goals**
 
 <div align="center">
 
-| 🥇 **Security Certifications** | 🎯 **Bug Bounty Stats** | 📊 **GitHub Metrics** |
+| 🥇 **Certifications** | 🎯 **Learning Stats** | 📊 **GitHub Activity** |
 |:---:|:---:|:---:|
-| AWS Cloud Practitioner ✅ | 150+ Vulnerabilities Found | 50+ Repositories |
-| CompTIA Security+ ✅ | $25,000+ Bounty Earnings | 1000+ Commits/Year |
-| CEH (In Progress) 🔄 | Hall of Fame: 10+ Companies | 95% Security-Focused |
+| AWS Cloud Practitioner ✅ | 5+ Online Courses Completed | 20+ Projects |
+| Cisco CCNA ✅ | 100+ Hours Lab Practice | 500+ Commits/Year |
+| Security+ (In Progress) 🔄 | 3+ Security CTFs Participated | 90% Security-Focused |
 
 </div>
 
 ---
 
-## 📚 **Security Research & Publications**
+## 📚 **Learning Resources & Study Materials**
 
-### 📝 **Technical Articles**
-- **"IoT Device Security: From Hardware to Cloud"** - *In-depth analysis of end-to-end IoT security*
-- **"AWS Security Best Practices for Enterprise"** - *Comprehensive cloud security guide*
-- **"Firmware Analysis Techniques for ESP32 Devices"** - *Practical reverse engineering guide*
-- **"Zero Trust Architecture Implementation"** - *Real-world deployment strategies*
+### � **Study Projects & Documentation**
+- **"IoT Security Lab Setup Guide"** - *Complete home lab configuration for ESP32 security testing*
+- **"AWS Cloud Practitioner Study Notes"** - *Comprehensive exam preparation materials*
+- **"CCNA Network Security Cheat Sheet"** - *Quick reference for network security concepts*
+- **"Python Security Scripts Collection"** - *Basic automation scripts for security tasks*
 
-### 🎤 **Conference Presentations**
-- **DEF CON 32**: "Breaking IoT Security Myths" - *Hardware security research*
-- **BSides**: "AWS Security Automation at Scale" - *Cloud security automation*
-- **OWASP Local Chapter**: "Secure Coding for IoT" - *Development best practices*
+### � **Learning Platforms & Courses**
+- **Cybrary**: Cybersecurity fundamentals, ethical hacking basics
+- **A Cloud Guru**: AWS certification training, cloud security
+- **TryHackMe**: Hands-on cybersecurity challenges and walkthroughs
+- **YouTube Security Channels**: NetworkChuck, Professor Messer, John Hammond
 
 ---
 
-## 📡 **Current Projects & Research**
+## 📡 **Current Learning & Projects**
 
-### 🔬 **Active Research Areas**
+### 🔬 **Active Study Areas**
 ```yaml
-Hardware Security:
-  - ESP32/ESP8266 firmware security analysis
-  - Secure element integration (ATECC608, SE050)
-  - Hardware-based root of trust implementation
+Network Security:
+  - CCNA routing and switching fundamentals
+  - Basic firewall configuration (pfSense)
+  - Network monitoring with Wireshark
   
 Cloud Security:
-  - AWS Organizations security automation
-  - Multi-account security governance
-  - Serverless security best practices
+  - AWS security services exploration
+  - IAM policy design and testing
+  - VPC security group configuration
   
 IoT Security:
-  - MQTT broker security hardening
-  - OTA update security mechanisms
-  - Device identity lifecycle management
+  - ESP32 secure programming practices
+  - MQTT security implementation
+  - Basic cryptography for IoT devices
 ```
 
-### 🛠️ **Open Source Contributions**
-- **AWS Security Tools**: CloudFormation templates, security automation scripts
-- **IoT Security Libraries**: Secure communication protocols, crypto implementations
-- **OWASP Projects**: Security testing tools, vulnerability scanners
+### 🛠️ **Home Lab Projects**
+- **Virtual Network Lab**: Multiple VMs with different OS for security testing
+- **AWS Free Tier Projects**: Hands-on cloud security practice within free limits
+- **IoT Security Testing**: ESP32 devices with various sensors for secure data collection
+- **Security Tool Practice**: Kali Linux VM for ethical hacking skill development
 
 ---
 
@@ -285,41 +284,41 @@ IoT Security:
 </div>
 
 ### 💬 **Open for Collaboration On:**
-- 🔒 **Security Research Projects** - IoT, Cloud, Mobile security research
-- 🏗️ **Open Source Security Tools** - SAST/DAST tools, automation frameworks
-- 🎓 **Mentoring & Training** - Cybersecurity education, certification prep
-- 🤝 **Consulting Opportunities** - Enterprise security architecture, penetration testing
+- 🔒 **Learning Projects** - IoT security, cloud security, network security
+- 🏗️ **Study Groups** - Certification preparation, knowledge sharing
+- 🎓 **Mentorship** - Seeking guidance from experienced professionals
+- 🤝 **Entry-Level Opportunities** - Internships, junior positions, security teams
 
 ---
 
-## 🎯 **2025 Goals & Roadmap**
+## 🎯 **2025 Learning Goals & Career Roadmap**
 
 <details>
-<summary><b>🚀 Click to expand my 2025 roadmap</b></summary>
+<summary><b>🚀 Click to expand my 2025 learning roadmap</b></summary>
 
-### 🎓 **Certifications**
-- [ ] AWS Solutions Architect Associate
-- [ ] CISSP (Certified Information Systems Security Professional)
-- [ ] OSCP (Offensive Security Certified Professional)
-- [ ] CISSP (Information Systems Security Professional)
+### 🎓 **Certification Goals**
+- [ ] CompTIA Security+ (Q1 2025)
+- [ ] AWS Solutions Architect Associate (Q3 2025)
+- [ ] CompTIA Network+ (Q4 2025)
+- [ ] CISSP Associate (Long-term goal)
 
-### 🔬 **Research Projects**
-- [ ] AI/ML Security for IoT devices
-- [ ] Quantum-safe cryptography implementation
-- [ ] Zero-knowledge proof applications in IoT
-- [ ] Blockchain-based device identity management
+### 🔬 **Learning Projects**
+- [ ] Complete TryHackMe Advent of Cyber challenges
+- [ ] Build a comprehensive home security lab
+- [ ] Contribute to open-source security tools
+- [ ] Complete 10+ CTF challenges
 
-### 📖 **Knowledge Sharing**
-- [ ] Publish 12+ technical security articles
-- [ ] Present at 3+ security conferences
-- [ ] Launch cybersecurity YouTube channel
-- [ ] Release open-source security framework
+### 📖 **Knowledge Expansion**
+- [ ] Complete Python for Security course
+- [ ] Learn basic penetration testing methodology
+- [ ] Study incident response procedures
+- [ ] Explore cloud security automation
 
-### 🏢 **Professional Development**
-- [ ] Lead enterprise security transformation project
-- [ ] Mentor 10+ junior security professionals
-- [ ] Build security center of excellence
-- [ ] Achieve industry recognition in IoT security
+### 🏢 **Career Development**
+- [ ] Secure entry-level cybersecurity position
+- [ ] Join local cybersecurity meetups/groups
+- [ ] Find a cybersecurity mentor
+- [ ] Build professional security portfolio
 
 </details>
 
@@ -327,9 +326,9 @@ IoT Security:
 
 <div align="center">
 
-### 🔐 **"Security is not just my profession, it's my passion"**
+### 🔐 **"Learning cybersecurity one project at a time"**
 
-**Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaborations.**
+**Thanks for visiting my profile! I'm always eager to learn and collaborate with fellow security enthusiasts.**
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SecArt1.SecArt1)
 [![GitHub followers](https://img.shields.io/github/followers/SecArt1?style=social)](https://github.com/SecArt1)
