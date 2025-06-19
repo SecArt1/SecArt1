@@ -4,7 +4,7 @@
 
 <img align="right" alt="Cybersecurity" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 🔐 **Aspiring Cybersecurity Professional | AWS Certified | IoT Security Enthusiast**
+### 🔐 **Cybersecurity Student | AWS Certified | IoT Security Enthusiast**
 
 > *"Security is not a product, but a process."* - Bruce Schneier
 
